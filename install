@@ -1,0 +1,10 @@
+#!/bin/bash
+set -Eeuo pipefail
+set -x
+
+# Python virtual environment
+python3 -m venv env
+source env/bin/activate
+
+# Install back end and front end
+pip install -r requirements.txt
