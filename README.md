@@ -26,6 +26,6 @@ sbatch run_predict_context_preceding.sh "outputs/granite-friends-context-2025120
 
 The script takes two arguments:
 1. **model_dir** (required): Path to the checkpoint you want to evaluate
-2. **context_window** (optional, default=3): Number of preceding dialogue lines to use as context
+2. **context_window** (optional, default=1): Number of preceding dialogue lines to use as context
 
 This script only takes into account preceding lines currently.
