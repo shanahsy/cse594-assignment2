@@ -1,0 +1,18 @@
+Model dir: outputs/granite-friends-context1-20251215-034424/checkpoint-41374
+Base model: ibm-granite/granite-4.0-micro
+Test path: test_data.csv
+Context window: 1
+Evaluated examples: 4436
+Overall accuracy: 39.47% (1751/4436)
+Macro F1 score: 0.3915
+
+Per-character metrics (Accuracy):
+  Joey Tribbiani: Acc=39.42% (285/723)
+  Monica Geller: Acc=46.42% (318/685)
+  Chandler Bing: Acc=36.75% (251/683)
+  Phoebe Buffay: Acc=28.18% (197/699)
+  Rachel Green: Acc=47.23% (366/775)
+  Ross Geller: Acc=38.35% (334/871)
+
+
+  
