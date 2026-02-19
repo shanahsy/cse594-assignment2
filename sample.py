@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score, f1_score
 # -----------------------------
 INPUT_PATH = "granite-friends-context1-20251215-034424__checkpoint-41374/predictions.csv"
 OUTPUT_SAMPLE_PATH = "sample_250_high_acc.csv"
-TARGET_ACCURACY = 0.80   # Change this (0.65–0.85)
+TARGET_ACCURACY = 0.75   # Change this (0.65–0.85)
 SAMPLE_SIZE = 250
 RANDOM_SEED = 42
 
