@@ -1,4 +1,4 @@
-speaker,predicted_speaker,text,context
+ground-truth,model output,input text,input context
 Monica Geller,Phoebe Buffay,"Oh, the way you crushed Mike at ping pong was such a turn-on.You wanna...?",
 Chandler Bing,Chandler Bing,"You know, I'd love to, but I'm a little tired.","Monica Geller: Oh, the way you crushed Mike at ping pong was such a turn-on.You wanna...?"
 Monica Geller,Joey Tribbiani,I'll put a pillowcase over my head.,"Chandler Bing: You know, I'd love to, but I'm a little tired."

@@ -1,4 +1,4 @@
-speaker,predicted_speaker,text,context
+ground-truth,model output,input text,input context
 Joey Tribbiani,Joey Tribbiani,"Look, it's one thing not to cast me, but to lie to me?",Chandler Bing: What!? Of course I did!
 Monica Geller,Monica Geller,"Well, that's it. Everything's packed.",Phoebe Buffay: I'm sorry.
 Chandler Bing,Chandler Bing,"It feels like we're cheating on our house. And if we're gonna cheat, shouldn't it be with like a hot, younger house, that does stuff that our house won't do?",Monica Geller: Thanks.
